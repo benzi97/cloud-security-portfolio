@@ -4,7 +4,10 @@ This section includes resources for responding to security incidents in cloud en
 
 Topics include:
 
+- Preparation
 - Detection
 - Investigation
 - Containment
+- Eradaction
 - Recovery
+- Lesson learned
